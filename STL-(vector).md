@@ -1,7 +1,3 @@
-Here’s a concise **Obsidian note** for **`std::vector` in C++**, tailored for competitive programming:
-
----
-
 ## 🚀 Quick Note: `std::vector` (C++)
 
 ### **Basics**
@@ -113,4 +109,4 @@ Here’s a concise **Obsidian note** for **`std::vector` in C++**, tailored for 
 
 ---
 
-This note is minimal and contains the most commonly used functions and patterns for `std::vector` in competitive programming. You can customize further as needed!
+This note is minimal and contains the most commonly used functions and patterns for `std::vector` in competitive programming.
